@@ -17,3 +17,7 @@ Companion specification by the same author: [Offline Emergency Dispatch Protocol
 **Author:** Igor Kapustin. Drafting and editing assistance: Claude (Anthropic), models Claude Fable 5 and Claude Opus 5. The author is responsible for all claims, framing decisions, and errors.
 
 Comments, objections, and referent-test proposals: open an issue.
+
+---
+
+*Keywords: negative confabulation, referent quarantine, proto-concept registry, LLM confabulation, unnamed phenomena, vocabulary boundary, machine naming, interpretability governance, out-of-distribution reporting.*
