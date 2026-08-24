@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use or discuss this specification, please cite it as below."
+title: "A Registry of Proto-Concepts with Referent Quarantine"
+authors:
+  - family-names: "Kapustin"
+    given-names: "Igor"
+version: 0.1.0
+date-released: "2026-08-24"
+license: CC-BY-4.0
+repository-code: "https://github.com/kapustin-i/proto-concept-registry"
+keywords:
+  - large language models
+  - confabulation
+  - negative confabulation
+  - interpretability
+  - naming
+  - governance
+  - proto-concepts
+abstract: "A specification for an open registry of proto-concepts (machine-registered anomaly coordinates with provenance) coupled with a referent quarantine: a status system under which a registered entry may not be promoted to a working term until a reproducible behavioral test is attached and independently reproduced. Introduces negative confabulation: the failure mode in which a model, lacking a name for what is present, reports its absence."
