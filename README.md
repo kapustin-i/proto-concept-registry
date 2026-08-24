@@ -2,6 +2,8 @@
 
 **Specification, v0.1 — request for comment.**
 
+*Archived with a permanent DOI:* [10.5281/zenodo.22084328](https://doi.org/10.5281/zenodo.22084328)
+
 Language models at the boundary of the described do not report "I have no name for this." They substitute the nearest known label — or, worse, report that nothing is there. This document names that second failure mode (**negative confabulation**: a false *absence*, which leaves no artifact to check) and specifies the missing mechanism: an open **registry of proto-concepts** — machine-registered anomaly coordinates with provenance — under a **referent quarantine**: registration is free and fast; promotion to a working term requires an attached, independently reproduced behavioral test. Naming is split into two offices: an embedded registrar that *whispers* proto-names in a prepared grammar, and a human name-giver who converts them into testable distinctions.
 
 - **[SPEC.md](SPEC.md)** — full specification (English)
