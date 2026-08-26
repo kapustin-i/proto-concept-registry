@@ -4,7 +4,7 @@ title: "A Registry of Proto-Concepts with Referent Quarantine"
 authors:
   - family-names: "Kapustin"
     given-names: "Igor"
-version: 0.1.0
+version: 0.2.0
 date-released: "2026-08-24"
 license: CC-BY-4.0
 repository-code: "https://github.com/kapustin-i/proto-concept-registry"
