@@ -9,6 +9,8 @@ The quarantine is a cycle, not a shelf: the machine hands out a passport for the
 - **[SPEC.md](SPEC.md)** — full specification (English)
 - **[SPEC.ru.md](SPEC.ru.md)** — полная спецификация (русский)
 
+**Archived version (v0.1) with a permanent DOI:** https://doi.org/10.5281/zenodo.22084328
+
 Noise models and catalogue search — the two filtering stages that precede this work — are solved elsewhere and acknowledged as such; the claim here begins after them. No implementation, no measurements, no independent reproductions yet. The document's own status under its own scheme is `registered`.
 
 Companion specification by the same author: [Offline Emergency Dispatch Protocol](https://github.com/kapustin-i/offline-dispatch-protocol).
